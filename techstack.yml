@@ -1,0 +1,271 @@
+repo_name: rayhanuddin2019/morris.js
+report_id: dc4e3acf92217c7b5e96c7ae015e7556
+repo_type: Public
+timestamp: '2023-11-10T15:10:28+00:00'
+requested_by: simonoff
+provider: github
+branch: master
+detected_tools_count: 20
+tools:
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: bower.json
+  detection_source: bower.json
+  last_updated_by: Edgars Beigarts
+  last_updated_on: 2014-07-12 17:17:14.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 1.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: bower.json
+  detection_source: bower.json
+  last_updated_by: Alexander Simonov
+  last_updated_on: 2014-02-02 17:15:26.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: sudodoki
+  last_updated_on: 2014-02-05 12:38:30.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 1.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: bower.json
+  detection_source: bower.json
+  last_updated_by: Alexander Simonov
+  last_updated_on: 2014-02-02 17:15:26.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source: bower.json
+  last_updated_by: Alexander Simonov
+  last_updated_on: 2014-02-02 17:15:26.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: ".travis.yml"
+  last_updated_by: Alexander Simonov
+  last_updated_on: 2014-02-02 17:15:26.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: Olly Smith
+  last_updated_on: 2012-06-26 06:32:36.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: bower
+  description: The browser package manager
+  package_url: https://www.npmjs.com/bower
+  version: 1.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16205/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: sudodoki
+  last_updated_on: 2014-07-13 21:06:58.000000000 Z
+  vulnerabilities:
+  - name: Symlink Arbitrary File Overwrite in bower
+    cve_id: CVE-2019-5484
+    cve_url: https://github.com/advisories/GHSA-p6mr-pxg4-68hx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.8.8
+- name: grunt-contrib-coffee
+  description: Compile CoffeeScript files to JavaScript
+  package_url: https://www.npmjs.com/grunt-contrib-coffee
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16284/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: sudodoki
+  last_updated_on: 2014-02-05 12:38:30.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: sudodoki
+  last_updated_on: 2014-02-05 12:38:30.000000000 Z
+- name: grunt-contrib-less
+  description: Compile LESS files to CSS
+  package_url: https://www.npmjs.com/grunt-contrib-less
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16581/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: sudodoki
+  last_updated_on: 2014-02-05 12:38:30.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 0.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: sudodoki
+  last_updated_on: 2014-02-05 12:38:30.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 0.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: sudodoki
+  last_updated_on: 2014-02-05 12:38:30.000000000 Z
+- name: grunt-mocha
+  description: Grunt task for running client-side Mocha specs in PhantomJS
+  package_url: https://www.npmjs.com/grunt-mocha
+  version: 0.4.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17369/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: sudodoki
+  last_updated_on: 2014-02-05 12:38:30.000000000 Z
+- name: grunt-shell
+  description: Run shell commands
+  package_url: https://www.npmjs.com/grunt-shell
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16396/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: sudodoki
+  last_updated_on: 2014-02-05 12:38:30.000000000 Z
+- name: matchdep
+  description: Use micromatch to filter npm module dependencies by name
+  package_url: https://www.npmjs.com/matchdep
+  version: 0.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16416/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: package.json
+  detection_source: package.json
+  last_updated_by: Olly Smith
+  last_updated_on: 2013-11-10 22:09:01.000000000 Z
